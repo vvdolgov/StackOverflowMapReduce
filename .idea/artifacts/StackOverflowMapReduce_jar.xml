@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StackOverflowMapReduce:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StackOverflowMapReduce_jar</output-path>
+    <root id="archive" name="StackOverflowMapReduce.jar">
+      <element id="module-output" name="StackOverflowMapReduce" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
